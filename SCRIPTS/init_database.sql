@@ -5,7 +5,7 @@ Create Database and Schemas
 Script Purpose:
     This script creates a new database named "DataWH" after checking if it already exists.
     If the database exists, it is dropped and recreated. Additionally, the script sets up three schemas
-    within the databse: rawLayer, cleanLayer and BusinessLayer.
+    within the databse: 'rawLayer', 'cleanLayer' and 'BusinessLayer'.
 
 !!  Warning !! :
     Running this code will drop the entire 'DataWH' database if it exists.
